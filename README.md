@@ -21,7 +21,7 @@ MONGODB_URI =
 # YOUTUBE API
 YOUTUBE_API_KEY =
 YOUTUBE_SEARCH_QUERY =
-
+```
 3. Install dependencies
 
 `npm install`
@@ -40,10 +40,12 @@ When using Docker Compose,
 ```
 MONGODB_URI = mongodb://mongo:27017
 ```
+
 3. Run:
 
 ```
 docker-compose up -d
 ```
+
 4. Navigate to `http://localhost:3000` to see the app live
 5. Monitor the data dumped into MongoDB by navigating to `http://localhost:8081` thanks to [mongo-express](https://github.com/mongo-express/mongo-express)
