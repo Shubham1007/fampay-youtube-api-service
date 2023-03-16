@@ -9,16 +9,9 @@
 2. Copy .env.example to .env
 
 ```
-# For default values, refer `.env.defaults` file
 NODE_ENV = 
-
-# Server Properties
 PORT =
-
-# MONGODB
 MONGODB_URI = 
-
-# YOUTUBE API
 YOUTUBE_API_KEY =
 YOUTUBE_SEARCH_QUERY =
 ```
