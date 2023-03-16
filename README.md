@@ -40,5 +40,4 @@ MONGODB_URI = mongodb://mongo:27017
 docker-compose up -d
 ```
 
-4. Navigate to `http://localhost:3000` to see the app live
-5. Monitor the data dumped into MongoDB by navigating to `http://localhost:8081` thanks to [mongo-express](https://github.com/mongo-express/mongo-express)
+4. Check data in mongodb using mongo compass or mongodb terminal.
