@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 const app = require('../app');
-const debug = require('debug')('fampay-assignment:server');
+const debug = require('debug')('fampay-youtube-api-task:server');
 const http = require('http');
 
 const port = normalizePort(process.env.PORT || '3000');

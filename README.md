@@ -6,7 +6,7 @@
 
 `git clone git@github.com:Shubham1007/fampay-youtube-api-task.git`
 
-2. Copy [.env.example](https://github.com/meehawk/fampay-assignment/blob/master/.env.example) to .env
+2. Copy .env.example to .env
 
 ```
 # For default values, refer `.env.defaults` file
